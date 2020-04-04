@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="save">res/save.svg</file>
+        <file alias="open">res/open.svg</file>
+        <file alias="appIcon">res/simple-svg.svg</file>
+    </qresource>
+</RCC>

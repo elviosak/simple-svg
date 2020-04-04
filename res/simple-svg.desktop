@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Simple Svg
+StartupWMClass=simple-svg
+TryExec=simple-svg
+Exec=simple-svg %U
+Terminal=false
+Icon=simple-svg
+Type=Application
+Categories=Graphics;
+MimeType=image/svg+xml;

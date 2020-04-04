@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" stroke-width="0">
+
+
+
+<path fill="#486" d="
+M4 24
+c   0 -8  8 -12  20 -12
+c  12  0  20   4  20  12
+c   0  8 -8  12 -20  12
+c  -8  0 -20  -4 -20 -12
+z"
+/>
+<path fill="#242" d="M12 20
+c   0 -4   6  -6  12 -6
+c   6  0  12   2  12  6
+c   0  4  -6   6  -12  6
+c  -6  0  -12 -2  -12  -6
+z
+"/>
+
+<ellipse transform="rotate(30,12,28)"
+ fill="#ee2222" cx="12" cy="28" rx="4" ry="3"/>
+
+<ellipse fill="#22ee22" cx="24" cy="31" rx="4" ry="3"/>
+
+<ellipse transform="rotate(-30,36,28)"
+ fill="#2222ee" cx="36" cy="28" rx="4" ry="3"/>
+
+</svg>
